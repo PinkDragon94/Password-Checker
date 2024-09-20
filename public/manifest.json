@@ -8,13 +8,13 @@
       "type": "image/x-icon"
     },
     {
-      "src": "PGVivid.jpg",
-      "type": "image/jpg",
+      "src": "PGVivid.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "PGVivid.jpg",
-      "type": "image/jpg",
+      "src": "PGVivid.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
